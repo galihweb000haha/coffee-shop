@@ -1,3 +1,10 @@
+# Installation Step
+1. Clone project from this repository
+2. Make sure node.js has been installed from your device. I used node version 20
+3. You can using npm or yarn to install dependency. I using yarn
+4. Install node package first after that you can directly run 'yarn start' or 'npm run start'
+5. Finally Boom..! the website already to be executed!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
